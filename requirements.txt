@@ -6,6 +6,6 @@ matplotlib
 seaborn
 memory_profiler
 ipykernel
-scikit-learn=1.2.2
+scikit-learn
 tensorflow
 tensorboard
